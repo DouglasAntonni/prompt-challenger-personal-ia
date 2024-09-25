@@ -121,3 +121,62 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Objetivo Geral
+O foco do treino para um endomorfo deve ser a queima de gordura, melhoria da resistência cardiovascular, e desenvolvimento de força e funcionalidade. O treino funcional será baseado em movimentos compostos, que ajudam a queimar mais calorias e aumentar a eficiência do corpo.
+
+Divisão do Treino (ABC)
+Treinando 3 vezes por semana, vamos dividir o plano por grupos musculares, combinando diferentes movimentos funcionais que trabalham tanto a parte cardiovascular quanto a força.
+
+Dia 1: Parte Superior do Corpo + Cardio Funcional
+Aquecimento (5-10 minutos):
+
+Polichinelos
+Corrida no lugar com elevação de joelhos
+Treino (3-4 séries de 12-15 repetições):
+
+Flexão de braços (foco em peitoral, tríceps e ombros)
+Remada invertida em barra ou TRX (foco nas costas)
+Press Militar com halteres ou kettlebell (ombros)
+Prancha com deslocamento lateral (abdômen e estabilidade)
+Burpees (treino funcional para todo o corpo e cardio)
+Finalização (2-3 séries de 30 segundos):
+
+Mountain Climbers
+Battle Rope (se disponível) ou saltos em caixa
+Dia 2: Parte Inferior do Corpo + Core
+Aquecimento (5-10 minutos):
+
+Agachamentos com peso corporal
+Passada (lunges) dinâmicas
+Treino (3-4 séries de 12-15 repetições):
+
+Agachamento com peso ou kettlebell (glúteos e quadríceps)
+Passada com step-up (trabalha pernas e equilíbrio)
+Deadlift Romeno (isquiotibiais e glúteos)
+Swing com kettlebell (força e explosão)
+Prancha com elevação de perna (abdômen e core)
+Finalização (2-3 séries de 30 segundos):
+
+Prancha lateral
+Skater Jumps (cardio e pernas)
+Dia 3: Corpo Inteiro Funcional + HIIT
+Aquecimento (5-10 minutos):
+
+Corda
+Agachamento com salto
+Treino HIIT Funcional (3-4 séries de 30 segundos de esforço com 15 segundos de descanso):
+
+Burpees
+Levantamento terra com kettlebell
+Agachamento com salto
+Arremesso de bola medicinal (se disponível)
+Corrida no lugar com elevação de joelhos
+Finalização (2-3 séries de 30 segundos):
+
+Corrida lateral com cones ou objetos
+Agachamento sumô com elevação de peso
+Dicas Gerais
+Descanso: Mantenha 1-2 dias de descanso entre os treinos, mas tente incluir caminhadas ou atividades leves nos dias de folga para manter o corpo ativo.
+Alimentação: Para o biotipo endomorfo, a dieta deve ser focada em controle de calorias, com ênfase em proteínas magras, vegetais, e carboidratos de baixo índice glicêmico.
+Cardio Adicional: Considere adicionar sessões leves de cardio nos dias de descanso, como caminhadas ou ciclismo leve, para auxiliar na queima de gordura.
