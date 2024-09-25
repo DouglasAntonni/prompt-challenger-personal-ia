@@ -119,8 +119,15 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 - [Boas práticas de prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
 
 ---
+###Variaveis
+
+{{Biotipo Corporal}} = Endomorfo
+{{Dias de Treino}} = 3 dias por semana
+{{Tipos de Exercício}} = Funcional
 
 ## 🎯 Prompt de Resposta Proposto
+
+
 
 Objetivo Geral
 O foco do treino para um endomorfo deve ser a queima de gordura, melhoria da resistência cardiovascular, e desenvolvimento de força e funcionalidade. O treino funcional será baseado em movimentos compostos, que ajudam a queimar mais calorias e aumentar a eficiência do corpo.
